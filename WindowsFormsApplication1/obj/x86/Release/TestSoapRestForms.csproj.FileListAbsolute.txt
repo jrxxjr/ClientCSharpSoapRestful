@@ -1,0 +1,8 @@
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Release\TestSoapRestForms.csproj.exe.config
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Release\TestSoapRestForms.csproj.exe
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Release\TestSoapRestForms.csproj.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Release\TestSoapRestForms.Properties.Resources.resources
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Release\TestSoapRestForms.csproj.GenerateResource.Cache
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Release\TestSoapRestForms.csproj.exe
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Release\TestSoapRestForms.csproj.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Release\TestSoapRestForms.Form1.resources

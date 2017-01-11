@@ -1,0 +1,12 @@
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Debug\TestSoapRestForms.csproj.exe.config
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Debug\TestSoapRestForms.csproj.exe
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\bin\Debug\TestSoapRestForms.csproj.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.Form1.resources
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.Properties.Resources.resources
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.csproj.GenerateResource.Cache
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.csproj.exe
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.csproj.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\TestSoapRestForms\WindowsFormsApplication1\obj\x86\Debug\TestSoapRestForms.csprojResolveAssemblyReference.cache
